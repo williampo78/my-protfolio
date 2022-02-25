@@ -67,6 +67,7 @@ main section.left h1 {
 }
 
 main section.left p {
+  line-height: 2.5rem;
   font-size: 1.5rem;
   padding: 1rem 0rem;
 }
